@@ -1,0 +1,10 @@
+h1 {
+  font-size: 2rem;
+}
+
+article {
+  background: purple;
+  & .title { 
+    font-size: 5rem;
+  }
+}
