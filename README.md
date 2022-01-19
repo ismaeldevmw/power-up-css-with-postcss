@@ -1,13 +1,13 @@
 # power-up-css-with-postcss
-PostCSS is an absolutely amazing tool, this is a template with a basic configuration
+PostCSS is an absolutely amazing tool, this is a template with a basic configuration.
 
-To start the project you must run the next command in your terminal
+To start the project you must run the next command in your terminal:
 
 ```powershell
 npm run postcss:watch
 ```
 
-If you want start from scratch you can use this command to start
+If you want start from scratch you can use this command to start.
 
 ```powershell
 npm init -y
@@ -15,7 +15,7 @@ npm i -D postcss postcss-cli
 npm i -D postcss-import
 npm i -D cssnano postcss-preset-env
 ```
-After that we add the following configuration on postcss.config.js  to start using our plugins
+After that we add the following configuration on postcss.config.js  to start using our plugins.
 
 ``` javascript
 module.exports = {
