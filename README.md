@@ -1,4 +1,4 @@
-# power-up-css-with-postcss
+# Power-up CSS with PostCSS
 PostCSS is an absolutely amazing tool, this is a template with a basic configuration.
 
 To start the project, you must run the next command in your terminal:
